@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outer{
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+button{
+    padding: 15px;
+    font-size: 18px;
+}
+button:hover{
+    cursor: pointer;
+}
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#blakc{
+    color: black;
+}
+#purple{
+    color: purple;
+}
+#pink{
+    color: pink;
+}
+
